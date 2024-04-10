@@ -1,0 +1,9 @@
+mark-my-function/.DS_Store
+ mark-my-function/npm-debug.log
+ mark-my-function/Thumbs.db
+*/node_modules/
+ */out/
+ */.vs/
+ */tsconfig.lsif.json
+ */*.lsif
+ */*.db
